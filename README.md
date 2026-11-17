@@ -4,6 +4,14 @@ A standalone Intelligent Contract that attests a registration
 against its registry's own public record, instead of trusting a
 number printed on a website.
 
+## Deployed
+
+- Network: StudioNet (GenLayer Studio)
+- Contract: `0x6aBEF1C312bea3d3bA37E7f067DCeEbFfd97E958`
+- Deploy tx: `0xb4dd81f1f79a1ed744f02da15717a1acf3b636ed710ae9584b8ccb0ca9ce836d`
+- Explorer: https://explorer-studio.genlayer.com/address/0x6aBEF1C312bea3d3bA37E7f067DCeEbFfd97E958
+- Studio: https://studio.genlayer.com/?import-contract=0x6aBEF1C312bea3d3bA37E7f067DCeEbFfd97E958
+
 ## Why this exists
 
 Before money, data or trust changes hands, the same question comes
